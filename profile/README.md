@@ -135,7 +135,7 @@ Zenno is delivered as a multi-repository platform:
 
 ## Current Deployment Endpoints
 
-> **Project status:** Zenno is a **student project**. It is deployed on **AWS EC2** using **free or promotional credits**. **URLs below are not always live:** instances may be stopped to save credits, or endpoints may be unavailable when credits run out.
+**Project status:** Zenno is a **student project**. It is deployed on **AWS EC2** using **free or promotional credits**. **URLs below are not always live:** instances may be stopped to save credits, or endpoints may be unavailable when credits run out.
 
 When the deployment is up, services are typically reachable at:
 
